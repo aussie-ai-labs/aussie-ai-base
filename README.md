@@ -25,7 +25,102 @@ If you have an expense account or a professional development allowance, here's w
 
 - [Amazon E-Book and Print](https://www.amazon.com/dp/B0CXJKCWX9)
 
+## Book Table of Contents
+
+**Front Matter**
+
+- Foreword
+- Preface
+- Source Code Availability
+- About the Author
+- About the Contributors
+
+**Part I: AI Projects in C++**
+
+- Chapter 1. Introduction to AI in C++
+- Chapter 2. Transformers & LLMs
+- Chapter 3. AI Phones
+- Chapter 4. AI on Your Desktop
+- Chapter 5. Design Choices & Architectures
+- Chapter 6. Training, Fine-Tuning & RAG
+- Chapter 7. Deployment Architecture
+
+**Part II: Basic C++ Optimizations**
+
+- Chapter 8. Bitwise Operations
+- Chapter 9. Floating Point Arithmetic
+- Chapter 10. Arithmetic Optimizations
+- Chapter 11. Compile-Time Optimizations
+- Chapter 12. Pointer Arithmetic
+- Chapter 13. Algorithm Speedups
+- Chapter 14. Memory Optimizations
+
+**Part III: Parallel C++ Optimizations**
+
+- Chapter 15. Loop Vectorization
+- Chapter 16. Hardware Acceleration
+- Chapter 17. AVX Intrinsics
+- Chapter 18. Parallel Data Structures
+
+**Part IV: Transformer Components in C++**
+- Chapter 19. Encoders & Decoders
+- Chapter 20. Attention
+- Chapter 21. Activation Functions
+- Chapter 22. Vector Algorithms
+- Chapter 23. Tensors
+- Chapter 24. Normalization
+- Chapter 25. Softmax
+- Chapter 26. Decoding Algorithms
+- Chapter 27. Tokenizer and Vocabulary
+
+**Part V: Optimizing Transformers in C++**
+
+- Chapter 28. Deslugging AI Engines
+- Chapter 29. Caching Optimizations
+- Chapter 30. Vectorization
+- Chapter 31. Kernel Fusion
+- Chapter 32. Quantization
+- Chapter 33. Pruning
+- Chapter 34. MatMul/GEMM
+- Chapter 35. Lookup Tables & Precomputation
+- Chapter 36. AI Memory Optimizations
+
+**Part VI: Enterprise AI in C++**
+
+- Chapter 37. Tuning, Profiling & Benchmarking
+- Chapter 38. Platform Portability
+- Chapter 39. Quality
+- Chapter 40. Reliability
+- Chapter 41. Self-Testing Code
+- Chapter 42. Debugging
+
+**Part VII: Research on AI Optimization**
+
+- Chapter 43. Overview of AI Research
+- Chapter 44. Advanced Quantization
+- Chapter 45. Knowledge Distillation
+- Chapter 46. Structured Pruning
+- Chapter 47. Early Exit and Layer Pruning
+- Chapter 48. Width Pruning
+- Chapter 49. Length Pruning
+- Chapter 50. Adaptive Inference
+- Chapter 51. Zero-Multiplication Models
+- Chapter 52. Logarithmic Models
+- Chapter 53. Arithmetic Optimization Research
+- Chapter 54. Ensemble Multi-Model Architectures
+- Chapter 55. Advanced Number Systems
+- Chapter 56. Neural Architecture Search
+
+**Appendices**
+
+- Appendix 1: C++ Slug Catalog
+- Bonus Appendix: C++ Bug Catalog
+- Bonus Appendix: C++ Bug Symptom Diagnosis
+- Bonus Appendix: C++ Portability Bug Catalog
+
 ## Programming Language Support
+
+The Aussie AI Base C++ Library supports these languages:
 
 - C++ - All of the main code is written in C++ and that's about all that matters.
 - C - This library does not compile as standard C, but some portions of it would quite easily.
@@ -44,6 +139,29 @@ This C++ code should compile on these platforms:
 Most of the code, except the AVX stuff and anything else I've forgotten about,
 is standard portable C++ and should compile
 pretty much anywhere after an hour or two of fighting with compiler warnings.
+
+## Building on Linux
+
+Make is the build method.
+The command to build the unit test executable:
+
+    make
+
+If you get an error about g++ then you may need this command:
+
+    scl enable devtoolset-8 -- bash
+
+The command to run the unit tests live:
+
+    make test
+
+To run with Valgrind runtime error checking:
+
+    make valgrind
+
+To run with gprof profiling:
+
+    make prof
 
 ## License
 

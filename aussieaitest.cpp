@@ -1,20 +1,4 @@
-// Testing code for the Aussie AI Base C++ library
-//
-
-#include <stdio.h>
-#include <stdlib.h>
-
-#if 0
-int main(int argc, char *argv[])
-{
-
-	printf("AUSSIE AI BASE: starting test execution.\n");
-
-	exit(0);
-}
-#endif
-
-// aussieaitest.cpp -- Aussie AI Base Library main routine
+// aussieaitest.cpp -- Aussie AI Base Library main tests
 // Created 27th July 2023
 // Copyright (c) 2023 Aussie AI Labs Pty Ltd
 //---------------------------------------------------

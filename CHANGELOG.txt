@@ -1,0 +1,15 @@
+
+Aug 29th 2024:
+- Copied whole library from internal YAPI area
+- Renamed "yapi_" to "aussie_" functions/variables
+- Added LINUX macros so it won't try to compile AVX intrinsics
+- Linking finally (but not running properly yet)
+- Remove any calls to third-party libraries, if any (for now)
+- Fix main() problems with 2 C++ test files
+- Ensure doesnt try to run AVX routines on Linux
+- Change YAPI to Aussie AI wherever it's used
+- Change YAPI_ function/macro names to AUSSIE_ prefix everywhere
+- Test Valgrind is running on Linux version ("make valgrind")
+
+
+

@@ -1,3 +1,4 @@
+CHANGELOG for Aussie AI Base C++ Library
 
 Aug 29th 2024:
 - Copied whole library from internal YAPI area
@@ -11,5 +12,19 @@ Aug 29th 2024:
 - Change YAPI_ function/macro names to AUSSIE_ prefix everywhere
 - Test Valgrind is running on Linux version ("make valgrind")
 
-
+Aug 30, 2024:
+- Fix Valgrind bugs uninitialized values
+- Add a LICENSE file
+- Add a proper README.md or other main documentation landing page
+- Change the name "Yoryck AI" to "Aussie AI"
+- Doc: Add citations of papers/books
+- Doc: clarify that no license granted to text of the book (needed?)
+- Doc: Add programming languages section (C, C++, Python, Java)
+- Doc: Research Literature Survey section & links to hot areas.
+- Doc: links to Aussie AI Blog
+- Doc: building on Linux
+- Doc: Add setup/install notes (e.g. dev toolset)
+- Doc: Add portability notes Windows/Linux/other platforms
+- Doc: Add make valgrind notes
+- Doc: link to the Gen AI C++ full book text online, TOC, etc.
 

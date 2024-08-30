@@ -99,79 +99,79 @@ Full text is available online for all chapters, which includes descriptions of m
 **Part I: AI Projects in C++**
 
 - [Chapter 1. Introduction to AI in C++](https://www.aussieai.com/book/chapter-1-intro)
-- [Chapter 2. Transformers & LLMs](https://www.aussieai.com/book/chapter-2-transformers-llms.htm)
-- [Chapter 3. AI Phones](https://www.aussieai.com/book/ch3-phone-ai.htm)
-- [Chapter 4. AI on Your Desktop](https://www.aussieai.com/book/ch4-desktop-ai.htm)
-- [Chapter 5. Design Choices & Architectures](https://www.aussieai.com/book/ch5-design-architectures.htm)
-- [Chapter 6. Training, Fine-Tuning & RAG](https://www.aussieai.com/book/ch6-training-ft-rag.htm)
-- [Chapter 7. Deployment Architecture](https://www.aussieai.com/book/ch7-deployment-architecture.htm)
+- [Chapter 2. Transformers & LLMs](https://www.aussieai.com/book/chapter-2-transformers-llms)
+- [Chapter 3. AI Phones](https://www.aussieai.com/book/ch3-phone-ai)
+- [Chapter 4. AI on Your Desktop](https://www.aussieai.com/book/ch4-desktop-ai)
+- [Chapter 5. Design Choices & Architectures](https://www.aussieai.com/book/ch5-design-architectures)
+- [Chapter 6. Training, Fine-Tuning & RAG](https://www.aussieai.com/book/ch6-training-ft-rag)
+- [Chapter 7. Deployment Architecture](https://www.aussieai.com/book/ch7-deployment-architecture)
 
 **Part II: Basic C++ Optimizations**
 
-- [Chapter 8. Bitwise Operations](https://www.aussieai.com/book/ch8-bitwise.htm)
-- [Chapter 9. Floating Point Arithmetic](https://www.aussieai.com/book/ch9-floating-point.htm)
-- [Chapter 10. Arithmetic Optimizations](https://www.aussieai.com/book/ch10-arithmetic-optimizations.htm)
-- [Chapter 11. Compile-Time Optimizations](https://www.aussieai.com/book/ch11-compile-time.htm)
-- [Chapter 12. Pointer Arithmetic](https://www.aussieai.com/book/ch12-pointer-arithmetic.htm)
-- [Chapter 13. Algorithm Speedups](https://www.aussieai.com/book/ch13-algorithms.htm)
-- [Chapter 14. Memory Optimizations](https://www.aussieai.com/book/ch14-memory-optimize.htm)
+- [Chapter 8. Bitwise Operations](https://www.aussieai.com/book/ch8-bitwise)
+- [Chapter 9. Floating Point Arithmetic](https://www.aussieai.com/book/ch9-floating-point)
+- [Chapter 10. Arithmetic Optimizations](https://www.aussieai.com/book/ch10-arithmetic-optimizations)
+- [Chapter 11. Compile-Time Optimizations](https://www.aussieai.com/book/ch11-compile-time)
+- [Chapter 12. Pointer Arithmetic](https://www.aussieai.com/book/ch12-pointer-arithmetic)
+- [Chapter 13. Algorithm Speedups](https://www.aussieai.com/book/ch13-algorithms)
+- [Chapter 14. Memory Optimizations](https://www.aussieai.com/book/ch14-memory-optimize)
 
 **Part III: Parallel C++ Optimizations**
 
-- [Chapter 15. Loop Vectorization](https://www.aussieai.com/book/ch15-loop-vectorization.htm)
-- [Chapter 16. Hardware Acceleration](https://www.aussieai.com/book/ch16-hardware-assembler.htm)
-- [Chapter 17. AVX Intrinsics](https://www.aussieai.com/book/ch17-avx-intrinsics.htm)
-- [Chapter 18. Parallel Data Structures](https://www.aussieai.com/book/ch18-parallel-data-structures.htm)
+- [Chapter 15. Loop Vectorization](https://www.aussieai.com/book/ch15-loop-vectorization)
+- [Chapter 16. Hardware Acceleration](https://www.aussieai.com/book/ch16-hardware-assembler)
+- [Chapter 17. AVX Intrinsics](https://www.aussieai.com/book/ch17-avx-intrinsics)
+- [Chapter 18. Parallel Data Structures](https://www.aussieai.com/book/ch18-parallel-data-structures)
 
 **Part IV: Transformer Components in C++**
 
-- [Chapter 19. Encoders & Decoders](https://www.aussieai.com/book/ch19-intro-encoder-decoder.htm)
-- [Chapter 20. Attention](https://www.aussieai.com/book/ch20-attention.htm)
-- [Chapter 21. Activation Functions](https://www.aussieai.com/book/ch21-activation-functions.htm)
-- [Chapter 22. Vector Algorithms](https://www.aussieai.com/book/ch22-vector-algorithms.htm)
-- [Chapter 23. Tensors](https://www.aussieai.com/book/ch23-tensors.htm)
-- [Chapter 24. Normalization](https://www.aussieai.com/book/ch24-normalization.htm)
-- [Chapter 25. Softmax](https://www.aussieai.com/book/ch25-softmax.htm)
-- [Chapter 26. Decoding Algorithms](https://www.aussieai.com/book/ch26-decoding.htm)
-- [Chapter 27. Tokenizer and Vocabulary](https://www.aussieai.com/book/ch27-tokenizer-embedding.htm)
+- [Chapter 19. Encoders & Decoders](https://www.aussieai.com/book/ch19-intro-encoder-decoder)
+- [Chapter 20. Attention](https://www.aussieai.com/book/ch20-attention)
+- [Chapter 21. Activation Functions](https://www.aussieai.com/book/ch21-activation-functions)
+- [Chapter 22. Vector Algorithms](https://www.aussieai.com/book/ch22-vector-algorithms)
+- [Chapter 23. Tensors](https://www.aussieai.com/book/ch23-tensors)
+- [Chapter 24. Normalization](https://www.aussieai.com/book/ch24-normalization)
+- [Chapter 25. Softmax](https://www.aussieai.com/book/ch25-softmax)
+- [Chapter 26. Decoding Algorithms](https://www.aussieai.com/book/ch26-decoding)
+- [Chapter 27. Tokenizer and Vocabulary](https://www.aussieai.com/book/ch27-tokenizer-embedding)
 
 **Part V: Optimizing Transformers in C++**
 
-- [Chapter 28. Deslugging AI Engines](https://www.aussieai.com/book/ch28-deslugging-ai.htm)
-- [Chapter 29. Caching Optimizations](https://www.aussieai.com/book/ch29-caching.htm)
-- [Chapter 30. Vectorization](https://www.aussieai.com/book/ch30-vectorization.htm)
-- [Chapter 31. Kernel Fusion](https://www.aussieai.com/book/ch31-kernel-fusion.htm)
-- [Chapter 32. Quantization](https://www.aussieai.com/book/ch32-quantization.htm)
-- [Chapter 33. Pruning](https://www.aussieai.com/book/ch33-pruning.htm)
-- [Chapter 34. MatMul/GEMM](https://www.aussieai.com/book/ch34-matmul-gemm.htm)
-- [Chapter 35. Lookup Tables & Precomputation](https://www.aussieai.com/book/ch35-lut-precomputation.htm)
-- [Chapter 36. AI Memory Optimizations](https://www.aussieai.com/book/ch36-memory-ai.htm)
+- [Chapter 28. Deslugging AI Engines](https://www.aussieai.com/book/ch28-deslugging-ai)
+- [Chapter 29. Caching Optimizations](https://www.aussieai.com/book/ch29-caching)
+- [Chapter 30. Vectorization](https://www.aussieai.com/book/ch30-vectorization)
+- [Chapter 31. Kernel Fusion](https://www.aussieai.com/book/ch31-kernel-fusion)
+- [Chapter 32. Quantization](https://www.aussieai.com/book/ch32-quantization)
+- [Chapter 33. Pruning](https://www.aussieai.com/book/ch33-pruning)
+- [Chapter 34. MatMul/GEMM](https://www.aussieai.com/book/ch34-matmul-gemm)
+- [Chapter 35. Lookup Tables & Precomputation](https://www.aussieai.com/book/ch35-lut-precomputation)
+- [Chapter 36. AI Memory Optimizations](https://www.aussieai.com/book/ch36-memory-ai)
 
 **Part VI: Enterprise AI in C++**
 
-- [Chapter 37. Tuning, Profiling & Benchmarking](https://www.aussieai.com/book/ch37-benchmark-profiling.htm)
-- [Chapter 38. Platform Portability](https://www.aussieai.com/book/ch38-platform-portability.htm)
-- [Chapter 39. Quality](https://www.aussieai.com/book/ch39-quality.htm)
-- [Chapter 40. Reliability](https://www.aussieai.com/book/ch40-reliability.htm)
-- [Chapter 41. Self-Testing Code](https://www.aussieai.com/book/ch41-self-testing-code.htm)
-- [Chapter 42. Debugging](https://www.aussieai.com/book/ch42-debugging.htm)
+- [Chapter 37. Tuning, Profiling & Benchmarking](https://www.aussieai.com/book/ch37-benchmark-profiling)
+- [Chapter 38. Platform Portability](https://www.aussieai.com/book/ch38-platform-portability)
+- [Chapter 39. Quality](https://www.aussieai.com/book/ch39-quality)
+- [Chapter 40. Reliability](https://www.aussieai.com/book/ch40-reliability)
+- [Chapter 41. Self-Testing Code](https://www.aussieai.com/book/ch41-self-testing-code)
+- [Chapter 42. Debugging](https://www.aussieai.com/book/ch42-debugging)
 
 **Part VII: Research on AI Optimization**
 
-- [Chapter 43. Overview of AI Research](https://www.aussieai.com/book/ch43-research-overview.htm)
-- [Chapter 44. Advanced Quantization](https://www.aussieai.com/book/ch44-advanced-quantization.htm)
-- [Chapter 45. Knowledge Distillation](https://www.aussieai.com/book/ch45-knowledge-distillation-research.htm)
-- [Chapter 46. Structured Pruning](https://www.aussieai.com/book/ch46-structured-pruning.htm)
-- [Chapter 47. Early Exit and Layer Pruning](https://www.aussieai.com/book/ch47-layer-prune-early-exit.htm)
-- [Chapter 48. Width Pruning](https://www.aussieai.com/book/ch48-width-pruning.htm)
-- [Chapter 49. Length Pruning](https://www.aussieai.com/book/ch49-length-pruning.htm)
-- [Chapter 50. Adaptive Inference](https://www.aussieai.com/book/ch50-adaptive-inference.htm)
-- [Chapter 51. Zero-Multiplication Models](https://www.aussieai.com/book/ch51-zero-multiplication.htm)
-- [Chapter 52. Logarithmic Models](https://www.aussieai.com/book/ch52-logarithmic-model.htm)
-- [Chapter 53. Arithmetic Optimization Research](https://www.aussieai.com/book/ch53-arithmetic-optimization.htm)
-- [Chapter 54. Ensemble Multi-Model Architectures](https://www.aussieai.com/book/ch54-ensemble-research.htm)
-- [Chapter 55. Advanced Number Systems](https://www.aussieai.com/book/ch55-advanced-number-systems.htm)
-- [Chapter 56. Neural Architecture Search](https://www.aussieai.com/book/ch56-nas-research.htm)
+- [Chapter 43. Overview of AI Research](https://www.aussieai.com/book/ch43-research-overview)
+- [Chapter 44. Advanced Quantization](https://www.aussieai.com/book/ch44-advanced-quantization)
+- [Chapter 45. Knowledge Distillation](https://www.aussieai.com/book/ch45-knowledge-distillation-research)
+- [Chapter 46. Structured Pruning](https://www.aussieai.com/book/ch46-structured-pruning)
+- [Chapter 47. Early Exit and Layer Pruning](https://www.aussieai.com/book/ch47-layer-prune-early-exit)
+- [Chapter 48. Width Pruning](https://www.aussieai.com/book/ch48-width-pruning)
+- [Chapter 49. Length Pruning](https://www.aussieai.com/book/ch49-length-pruning)
+- [Chapter 50. Adaptive Inference](https://www.aussieai.com/book/ch50-adaptive-inference)
+- [Chapter 51. Zero-Multiplication Models](https://www.aussieai.com/book/ch51-zero-multiplication)
+- [Chapter 52. Logarithmic Models](https://www.aussieai.com/book/ch52-logarithmic-model)
+- [Chapter 53. Arithmetic Optimization Research](https://www.aussieai.com/book/ch53-arithmetic-optimization)
+- [Chapter 54. Ensemble Multi-Model Architectures](https://www.aussieai.com/book/ch54-ensemble-research)
+- [Chapter 55. Advanced Number Systems](https://www.aussieai.com/book/ch55-advanced-number-systems)
+- [Chapter 56. Neural Architecture Search](https://www.aussieai.com/book/ch56-nas-research)
 
 **Appendices**
 
@@ -180,7 +180,7 @@ Full text is available online for all chapters, which includes descriptions of m
 - [Bonus Appendix: C++ Bug Symptom Diagnosis](https://www.aussieai.com/book/appendix-symptom-diagnosis-bugs)
 - [Bonus Appendix: C++ Portability Bug Catalog](https://www.aussieai.com/book/appendix-portability-bug-catalog)
 
-## Programming Language Support
+## Library Programming Language Support
 
 The Aussie AI Base C++ Library supports these languages:
 

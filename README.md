@@ -8,6 +8,65 @@ components and related algorithms from ML and linear algebra. It's also a sneaky
 release all of the source code examples
 for the book "Generative AI in C++" published in March 2024.
 
+## About Aussie AI
+
+Aussie AI is based in Australia (surprise!) and focused on Generative AI (surprise again).
+We are focused on consumer AI applications (the top layer) and kernel optimization research
+for Transformers (the bottom layer). Some of our work:
+
+- [AI Research Literature Survey](https://www.aussieai.com/research/overview)
+- [Aussie AI Research Blog](https://www.aussieai.com/blog/index)
+- [Inference Optimization Techniques List](https://www.aussieai.com/research/list)
+- [A-Z on Inference Optimization Research](https://www.aussieai.com/research/index-techniques)
+
+## Transformer Components in C++
+
+This C++ library presents implementations of various Transformer components in C++.
+The purpose of this library is mainly educational
+and complements the descriptions in the book "Generative AI in C++".
+Sorry, these are not tight CUDA kernels for your GPUs.
+
+Some of the implemented Transformer components include:
+
+- Activation Functions (RELU, GELU)
+- Normalization (BatchNorm)
+- AVX Vectorization (for x86 CPUs such as Microsoft Windows)
+- Softmax normalization
+- Top-k decoding
+
+Some general linear algebra methods include:
+
+- Vector operations
+- Vector norms (L1/L2/L3)
+- MatMul/GEMM (basic/tiled)
+
+## Advanced General C++ Coding
+
+Some portions of this library are not AI-specific, but 
+are advanced general-purpose programming methods, including:
+
+- Bitwise tricks
+- Floating-point tricks
+- Dynamic arrays/tensors (1D/2D/3D)
+- Arithmetic Operators (basic)
+
+## Optimizing and Profiling C++ Libraries
+
+Some of the performance improvement general techniques include:
+
+- Benchmarking/timing of code execution
+- Precomputation optimizations
+- Loop optimizations (loop unrolling, loop fusion, loop fission)
+
+## Debugging C++ Libraries
+
+Some of the debugging-related areas include:
+
+- Assertion macros
+- Debug wrapper functions
+- Debug trace macros
+- Portability checking
+
 ## Generative AI in C++ Book
 
 This repository includes the C++ source code examples from 
@@ -25,7 +84,9 @@ If you have an expense account or a professional development allowance, here's w
 
 - [Amazon E-Book and Print](https://www.amazon.com/dp/B0CXJKCWX9)
 
-## Book Table of Contents
+## Table of Contents for Generative AI in C++
+
+Full text is available online for all chapters, which includes descriptions of many of these coded functions.
 
 **Front Matter**
 
@@ -132,7 +193,7 @@ put 10 ".java" files in each subdirectory, then copy-paste one line of C++ sourc
 
 This C++ code should compile on these platforms:
 
-- Linux - build using the Makefile
+- Linux - build using the Makefile ("make" and then "make test")
 - Microsoft Windows - build the project inside Microsoft Visual Studio (MSVS) IDE.
 - MacOS - sorry, you're on your own for now.
 
